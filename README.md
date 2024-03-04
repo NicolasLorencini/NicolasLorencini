@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Oi! Meu nome é Nicolas e tenho 19 anos. Atualmente estou cursando meu 2º ano de Ánalise e Desevolvimento e Sistemas</h1>
+<h1 align="center">Oi! Meu nome é Nicolas e tenho 19 anos. Atualmente estou cursando meu 3º ano de Ánalise e Desevolvimento e Sistemas</h1>
 
 ###
 
